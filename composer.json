@@ -1,0 +1,12 @@
+{
+    "name": "mugishaelise/poultyproject",
+    "description": "Poultry project management system",
+    "authors": [
+        {
+            "name": "MUGISHA"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "*"
+    }
+}
